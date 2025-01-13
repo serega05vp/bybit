@@ -1,2 +1,3 @@
 pybit
 sqlite3
+websocket-client
